@@ -1,0 +1,3 @@
+-Dkaraf.data=/var/nexus_home/data
+-Dkaraf.instances=/var/nexus_home/data/instances
+-Djava.io.tmpdir=/var/nexus_home/data/tmp
